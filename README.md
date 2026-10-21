@@ -49,9 +49,7 @@ This dashboard provides a comprehensive view of Blinkit's sales operations. It h
 - **Customer Preference:** Low Fat products have a higher sales volume compared to Regular fat products.
 
 ## 👨‍💻 Author
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+**[Yash Khartode]**
 
 ---
 *Built to demonstrate data visualization and business intelligence capabilities in the retail sector.*
